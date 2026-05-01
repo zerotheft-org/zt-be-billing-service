@@ -69,3 +69,5 @@ The CI pipeline automatically authenticates to CodeArtifact and injects the priv
 For more details on developing with shared packages, see:
 - [zt-plat-python-sdk README](https://github.com/zerotheft-org/zt-plat-python-sdk/blob/main/README.md)
 - [CI/CD Developer Guide](../../docs/ci-cd-developer-guide.md)
+
+<!-- CI trigger: 2026-05-01T04:06:36Z -->
